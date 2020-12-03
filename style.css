@@ -1,0 +1,19 @@
+body  {
+  background: #000000
+  
+}
+  
+
+.formatoletra {
+  color:white;
+  font-style:Italic;
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.alinear
+{
+align-content: center;
+  }
